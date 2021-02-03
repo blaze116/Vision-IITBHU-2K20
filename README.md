@@ -6,5 +6,4 @@ This is the code that won Vision'20 (event under robotics Club of IIT BHU), an i
 **TASK:**
 Design a Completely Autonomous robot which could detect and hit the targets.Detailed PS can be found here Vision final PS.pdf
 
-**Solution:**
-* 
+
